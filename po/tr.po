@@ -1,0 +1,3553 @@
+# Turkish translations for PACKAGE package.
+# Copyright (C) 2015 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# giuspen <giuspen@gmail.com>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-08 20:34+0100\n"
+"PO-Revision-Date: 2021-04-11 20:35+0300\n"
+"Last-Translator: Giuseppe Penone <giuspen@gmail.com>\n"
+"Language-Team: Turkish\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_gen_purp.cc:225
+msgid "Remove Color"
+msgstr "Rengi Sil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_gen_purp.cc:278
+msgid "Question"
+msgstr "Soru"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_gen_purp.cc:293
+msgid "Info"
+msgstr "Bilgi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_gen_purp.cc:307
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:348
+msgid "Warning"
+msgstr "Uyarı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_gen_purp.cc:321
+msgid "Error"
+msgstr "Hata"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_gen_purp.cc:329
+msgid "Select File"
+msgstr "Dosya Seç"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_gen_purp.cc:350
+msgid "Select Folder"
+msgstr "Klasör Seç"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_gen_purp.cc:363
+msgid "Save File as"
+msgstr "Farklı Kaydet"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_file.cc:80
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_file.cc:97
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_import.cc:101
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_export.cc:108
+msgid "CherryTree Document"
+msgstr "CherryTree Dökümanı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:55
+msgid "Search for"
+msgstr "Bunu Ara"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:65
+msgid "Replace with"
+msgstr "Bununla Değiştir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:80
+msgid "Match Case"
+msgstr "Birebir Eşleştir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:82
+msgid "Regular Expression"
+msgstr "Düzenli İfade"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:84
+msgid "Whole Word"
+msgstr "Tam Kelime"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:86
+msgid "Start Word"
+msgstr "Kelime Başlangıcı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:88
+msgid "Forward"
+msgstr "İleri"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:90
+msgid "Backward"
+msgstr "Geri"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:93
+msgid "All, List Matches"
+msgstr "Tümü, Sonuçları Listele"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:95
+msgid "First From Selection"
+msgstr "Seçimden İlki"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:98
+msgid "First in All Range"
+msgstr "Tüm Aralıkta İlki"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:109
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:162
+msgid "Node Created After"
+msgstr "Bu tarihten sonra oluşturulan not"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:116
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:167
+msgid "Node Created Before"
+msgstr "Bu tarihten önce oluşturulan not"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:123
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:172
+msgid "Node Modified After"
+msgstr "Bu tarihten sonra düzenlenen not"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:130
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:177
+msgid "Node Modified Before"
+msgstr "Bu tarihten önce düzenlenen not"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:148
+msgid "Time filter"
+msgstr "Zaman filtresi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:180
+msgid "Show Iterated Find/Replace Dialog"
+msgstr "Yinelenenleri Bul/Değiştir Penceresini Göster"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:204
+msgid "Search options"
+msgstr "Arama Ayarları"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:267
+#, c-format
+msgid "Hide (Restore with '%s')"
+msgstr "Gizle (Geri Yüklemek İçin %s Kısayolunu Kullanın)"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:271
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_tree.cc:78
+msgid "Node Name"
+msgstr "Not İsmi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:272
+msgid "Line"
+msgstr "Çizgi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:273
+msgid "Line Content"
+msgstr "Çizgi İçeriği"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:291
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_others.cc:329
+#, c-format
+msgid "The Link Refers to a Node that Does Not Exist Anymore (Id = %s)"
+msgstr "Link Verilen Not Yok (Id = %s)"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:344
+msgid "Iterate Latest Find/Replace"
+msgstr "Son Aramayı/Değiştirmeyi Yinele"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:347
+msgid "Close"
+msgstr "Kapat"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:348
+msgid "Find Previous"
+msgstr "Öncekini Bul"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:349
+msgid "Find Next"
+msgstr "Sonrakini Bul"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:350
+msgid "Replace"
+msgstr "Değiştir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_find.cc:351
+msgid "Undo"
+msgstr "Geri Al"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_misc.cc:30
+msgid "Enable System Tray Docking"
+msgstr "Sistem Çekmecesi Bağlantısını Etkinleştir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_misc.cc:31
+msgid "Start Minimized in the System Tray"
+msgstr "Başlangıçta Sistem Çekmecesinde Başlat"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_misc.cc:35
+msgid "System Tray"
+msgstr "Sistem Çekmecesi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_misc.cc:43
+msgid "Autosave Every"
+msgstr "Sürekli Otomatik Kayıt"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_misc.cc:46
+msgid "Minutes"
+msgstr "Dakika"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_misc.cc:50
+msgid "Autosave on Quit"
+msgstr "Çıkışta Otomatik Kaydet"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_misc.cc:51
+msgid "Create a Backup Copy Before Saving"
+msgstr "Kaydetmeden Önce Yedek Kopyası Oluştur"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_misc.cc:53
+msgid "Number of Backups to Keep"
+msgstr "Saklamak İçin Yedekleri Numaralandır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_misc.cc:58
+msgid "Custom Backup Directory"
+msgstr "Özel Yedek Klasörü"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_misc.cc:86
+msgid "Saving"
+msgstr "Kaydediliyor"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_misc.cc:89
+msgid "Automatically Check for Newer Version"
+msgstr "Yeni Sürümü Otomatik Kontrol Et"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_misc.cc:90
+msgid "Enable Word Count in Statusbar"
+msgstr "Kelime Sayısını Durum Çubuğunda Göster"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_misc.cc:91
+msgid "Reload Document From Last Session"
+msgstr "Son Oturumu Yeniden Yükle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_misc.cc:92
+msgid "Reload After External Update to CT* File"
+msgstr "CT* Dosyasını Güncelledikten Sonra Tekrar Yükle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_misc.cc:93
+msgid "Show the Document Directory in the Window Title"
+msgstr "Belge Dizinini Pencere Başlığında Göster"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_misc.cc:106
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:70
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:247
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_text_n_code.cc:131
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_rich_text.cc:106
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_rich_text.cc:261
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_tree.cc:105
+msgid "Miscellaneous"
+msgstr "Çeşitli"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_misc.cc:121
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_misc.cc:225
+msgid "Language"
+msgstr "Dil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_misc.cc:138
+msgid "Has the System Tray appeared on the panel?"
+msgstr "Panelde Sistem Tepsisi göründü mü?"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_misc.cc:144
+msgid "Your system does not support the System Tray"
+msgstr "Sisteminiz Sistem Tepsisini desteklemiyor"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_misc.cc:233
+msgid "The New Language will be Available Only After Restarting CherryTree"
+msgstr "Yeni Dil CherryTree Yeniden Başlatılınca Aktif Olacak"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_anch_widg.cc:59
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_anch_widg.cc:183
+msgid "Width"
+msgstr "Genişlik"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_anch_widg.cc:62
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_anch_widg.cc:187
+msgid "Height"
+msgstr "Yükseklik"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_anch_widg.cc:164
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:102
+#: /home/giuseppe/git/cherrytree/src/ct/ct_main_win.cc:583
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_theme.cc:77
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_tree.cc:84
+msgid "Plain Text"
+msgstr "Düz Metin"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_anch_widg.cc:165
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_anch_widg.cc:256
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_tree.cc:85
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_tree.cc:153
+msgid "Automatic Syntax Highlighting"
+msgstr "Otomatik sözdizimi vurgulama"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_anch_widg.cc:178
+msgid "Type"
+msgstr "Tür"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_anch_widg.cc:192
+msgid "pixels"
+msgstr "piksel"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_anch_widg.cc:215
+msgid "Size"
+msgstr "Ebat"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_anch_widg.cc:220
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_text_n_code.cc:52
+msgid "Show Line Numbers"
+msgstr "Satır Numaralarını Göster"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_anch_widg.cc:222
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_plain_text_n_code.cc:35
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_rich_text.cc:55
+msgid "Highlight Matching Brackets"
+msgstr "Köşeli Ayraçların Eşleştirmesini Vurgula"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_anch_widg.cc:231
+msgid "Options"
+msgstr "Seçenekler"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_anch_widg.cc:338
+msgid "Rows"
+msgstr "Satırlar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_anch_widg.cc:344
+msgid "Columns"
+msgstr "Kolonlar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_anch_widg.cc:350
+msgid "Default Width"
+msgstr "Varsayılan Genişlik"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_anch_widg.cc:356
+msgid "Table Size"
+msgstr "Tablo Boyutu"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_anch_widg.cc:359
+msgid "Column Properties"
+msgstr "Kolon Özellikleri"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_anch_widg.cc:380
+msgid "Import from CSV File"
+msgstr "CSV Dosyasından İçe Aktar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_toolbar.cc:48
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_plain_text_n_code.cc:65
+msgid "Add"
+msgstr "Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_toolbar.cc:51
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_plain_text_n_code.cc:68
+msgid "Remove Selected"
+msgstr "Seçili Olanı Sil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_toolbar.cc:54
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_kb_shortcuts.cc:65
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_theme.cc:177
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_special_chars.cc:36
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_plain_text_n_code.cc:71
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_plain_text_n_code.cc:84
+msgid "Reset to Default"
+msgstr "Varsayılana Sıfırla"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_toolbar.cc:124
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_toolbar.cc:147
+msgid "Split Toolbar"
+msgstr "Araç Çubuğunu Böl"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_toolbar.cc:129
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:72
+msgid "Open a CherryTree Document"
+msgstr "Bir CherryTree Dosyası Aç"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_toolbar.cc:157
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_plain_text_n_code.cc:247
+msgid "Select Element to Add"
+msgstr "Eklemek İçin Nesne Seçin"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:28
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:78
+msgid "Preferences"
+msgstr "Seçenekler"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:33
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:426
+msgid "Bulgarian"
+msgstr "Bulgarca"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:34
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:428
+msgid "Czech"
+msgstr "Çekçe"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:35
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:432
+msgid "German"
+msgstr "Almanca"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:36
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:433
+msgid "Greek"
+msgstr "Yunanca"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:37
+msgid "English"
+msgstr "İngilizce"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:38
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:443
+msgid "Spanish"
+msgstr "İspanyolca"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:39
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:430
+msgid "Finnish"
+msgstr "Fince"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:40
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:431
+msgid "French"
+msgstr "Fransızca"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:41
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:425
+msgid "Armenian"
+msgstr "Ermenice"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:42
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:434
+msgid "Italian"
+msgstr "İtalyanca"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:43
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:435
+msgid "Japanese"
+msgstr "Japonca"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:44
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:436
+msgid "Kazakh"
+msgstr "Kazakça"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:45
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:437
+msgid "Korean"
+msgstr "Korece"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:46
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:438
+msgid "Lithuanian"
+msgstr "Litvanca"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:47
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:429
+msgid "Dutch"
+msgstr "Hollanda"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:48
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:439
+msgid "Polish"
+msgstr "Polonyaca"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:49
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:440
+msgid "Portuguese Brazil"
+msgstr "Brezilya Portekizcesi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:50
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:441
+msgid "Russian"
+msgstr "Rusça"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:51
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:442
+msgid "Slovenian"
+msgstr "Slovakça"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:52
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:444
+msgid "Swedish"
+msgstr "İsveççe"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:53
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:445
+msgid "Turkish"
+msgstr "Türkçe"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:54
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:446
+msgid "Ukrainian"
+msgstr "Ukraynaca"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:55
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:427
+msgid "Chinese Simplified"
+msgstr "Geleneksel Çince"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:59
+msgid "Text and Code"
+msgstr "Metin ve Kod"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:60
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:97
+#: /home/giuseppe/git/cherrytree/src/ct/ct_main_win.cc:580
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_theme.cc:70
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_tree.cc:82
+msgid "Rich Text"
+msgstr "Zengin Metin"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:61
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:107
+msgid "Format"
+msgstr "Biçim"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:62
+msgid "Plain Text and Code"
+msgstr "Düz Metin ve Kod"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:63
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_edit.cc:463
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_special_chars.cc:32
+msgid "Special Characters"
+msgstr "Özel Karakterler"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:64
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_theme.cc:49
+msgid "Tree Explorer"
+msgstr "Ağaç Gezgini"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:65
+msgid "Theme"
+msgstr "Tema"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:66
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:133
+msgid "Fonts"
+msgstr "Yazı Tipleri"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:67
+msgid "Links"
+msgstr "Linkler"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:68
+msgid "Toolbar"
+msgstr "Araç Çubuğu"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:69
+msgid "Keyboard Shortcuts"
+msgstr "Kısayollar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:99
+msgid "Monospace"
+msgstr "Tekli Boşluk"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:104
+msgid "Code Font"
+msgstr "Kod Yazı Tipi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:106
+msgid "Tree Font"
+msgstr "Ağaç Yazı Tipi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:177
+msgid "Enable Custom Web Link Clicked Action"
+msgstr "Özel Web Linki Tıklanma Durumunu Aktif Et"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:179
+msgid "Enable Custom File Link Clicked Action"
+msgstr "Özel Dosya Tıklanma Durumunu Aktif Et"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:181
+msgid "Enable Custom Folder Link Clicked Action"
+msgstr "Özel Klasör Tıklanma Durumunu Aktif Et"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:190
+msgid "Custom Actions"
+msgstr "Özel Hareketler"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:207
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_link.cc:49
+msgid "To WebSite"
+msgstr "Web Adresine"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:209
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_link.cc:90
+msgid "To Node"
+msgstr "Nota"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:211
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_link.cc:60
+msgid "To File"
+msgstr "Dosyaya"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:213
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_link.cc:75
+msgid "To Folder"
+msgstr "Klasöre"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:228
+msgid "Colors"
+msgstr "Renkler"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:231
+msgid "Underline Links"
+msgstr "Altı Çizili Linkler"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:233
+msgid "Use Relative Paths for Files And Folders"
+msgstr "Klasör ve Dosyalar İçin Göreceli Bağlantılar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:237
+msgid "Anchor Size"
+msgstr "Çapa Boyutu"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.cc:313
+msgid "This Change will have Effect Only After Restarting CherryTree"
+msgstr "Yapılan Değişiklikler CherryTree Yeniden Başlatıldığında Etkili Olacak"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_main_win_file.cc:130
+#, c-format
+msgid "\"%s\" is Not a CherryTree Document"
+msgstr "\"%s\" bir CherryTree Dökümanı Değil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_main_win_file.cc:146
+#, c-format
+msgid ""
+"Error Parsing the CherryTree File:\n"
+"\"%s\""
+msgstr ""
+"CherryTree Dosyasını Ayrıştırırken Hata:\n"
+"\"%s\""
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_main_win_file.cc:221
+msgid "Temporary Files were Created and Opened with External Applications."
+msgstr "Geçici Dosyalar Dış Uygulamalarla Oluşturuldu ve Açıldı."
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_main_win_file.cc:222
+msgid "Quit the External Applications Before Quit CherryTree."
+msgstr "CherryTree Uygulamasından Çıkmadan Önce Dış Uygulamaları Kapatın."
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_main_win_file.cc:223
+msgid "Did you Quit the External Applications?"
+msgstr "Dış Uygulamalardan Çıkmak İstediğinizden Emin misiniz?"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_main_win_file.cc:345
+msgid "The Document was Reloaded After External Update to CT* File"
+msgstr "Belge CT* Dosyasını Güncelledikten Sonra Tekrar Yüklendi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu.cc:152
+msgid "Remove from list"
+msgstr "Listeden Sil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_find.cc:59
+msgid "Replace in Current Node..."
+msgstr "Aktif Notu Değiştir..."
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_find.cc:59
+msgid "Search in Current Node..."
+msgstr "Aktif Not İçinde Ara..."
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_find.cc:100
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_find.cc:236
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_find.cc:319
+#, c-format
+msgid "The pattern '%s' was not found"
+msgstr "Desen '%s' bulunamadı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_find.cc:103
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_find.cc:239
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_find.cc:321
+msgid "Matches"
+msgstr "Eşleştirmeler"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_find.cc:134
+msgid "Replace in Selected Node and Subnodes"
+msgstr "Seçili Notta ve Alt Notlarda Değiştir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_find.cc:134
+msgid "Replace in All Nodes"
+msgstr "Tüm Notlarda Değiştir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_find.cc:136
+msgid "Search in Selected Node and Subnodes"
+msgstr "Seçili Notta ve Alt Notlarda Ara"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_find.cc:136
+msgid "Search in All Nodes"
+msgstr "Tüm Notlarda Ara"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_find.cc:260
+msgid "Replace in Node Names..."
+msgstr "Not İsimlerinde Değiştir..."
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_find.cc:260
+msgid "Search For a Node Name..."
+msgstr "Not İsmi İçinde Ara..."
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_find.cc:336
+msgid "No Previous Search Was Performed During This Session"
+msgstr "Bu Oturumda Gerçekleştirilen Önceki Bir Arama Yok"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_app.cc:113
+msgid "CherryTree Hierarchical Note Taking"
+msgstr "CherryTree Hiyerarşik Notları Tutar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_app.cc:120
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:236
+msgid "Show/Hide _CherryTree"
+msgstr "CherryTree Yazılımını Göster/Gizle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_app.cc:120
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:236
+msgid "Toggle Show/Hide CherryTree"
+msgstr "CherryTree Yazılımını Göster/Gizle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_app.cc:122
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:81
+msgid "_Exit CherryTree"
+msgstr "CherryTreeyi Kapat"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_app.cc:122
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:81
+msgid "Exit from CherryTree"
+msgstr "CherryTreeden Çıkış"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_app.cc:382
+msgid "Print CherryTree version"
+msgstr "CherryTreeyi Sürümünü Yazdır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_app.cc:383
+msgid "Node name to focus"
+msgstr "Odaklanacak Not Adı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_app.cc:384
+msgid "Export to HTML at specified directory path"
+msgstr "Belirtilen dizin yolunda HTML ye aktar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_app.cc:385
+msgid "Export to Text at specified directory path"
+msgstr "Belirtilen Dizin Yolunda Metne Aktar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_app.cc:386
+msgid "Export to PDF at specified directory path"
+msgstr "Belirtilen dizin yolunda PDF ye aktar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_app.cc:387
+msgid "Overwrite if export path already exists"
+msgstr "Dışa aktarma yolu zaten mevcutsa üzerine yaz"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_app.cc:388
+msgid "Export to a single file (for HTML or TXT)"
+msgstr "Tek dosya olarak dışa aktar (HTML veya TXT)"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_app.cc:389
+msgid "Create a new window"
+msgstr "Yeni bir pencere oluştur"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_import.cc:38
+msgid "Who is the Parent?"
+msgstr "Üst Not Hangisi?"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_import.cc:48
+msgid "The Tree Root"
+msgstr "Ağacın Kökü"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_import.cc:49
+msgid "The Selected Node"
+msgstr "Seçili Not"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_import.cc:157
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_import.cc:168
+msgid "Pandoc executable could not be found, please ensure it is in your path"
+msgstr ""
+"Pandoc yürütülebilir dosyası bulunamadı, lütfen dizinde olduğundan emin olun"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_format.cc:82
+msgid "No Previous Text Format Was Performed During This Session"
+msgstr "Bu Oturumda Gerçekleştirilen Önceki Metin Formatı Yok"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_format.cc:101
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_format.cc:313
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_edit.cc:907
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_tree.cc:76
+msgid "No Text is Selected"
+msgstr "Seçili Metin Yok"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_format.cc:321
+msgid "Link Name"
+msgstr "Link İsmi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_format.cc:342
+msgid "The Cursor is Not into a Paragraph"
+msgstr "İmleç Bir Paragraf İçinde Değil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_format.cc:361
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_others.cc:260
+msgid "Insert/Edit Link"
+msgstr "Link Ekle/Düzenle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_format.cc:370
+msgid "Pick a Foreground Color"
+msgstr "Yazı Rengini Seçin"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_format.cc:370
+msgid "Pick a Background Color"
+msgstr "Arkaplan Rengini Seçin"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_export2html.cc:138
+msgid "Index"
+msgstr "İçindekiler"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_help.cc:45
+msgid "Checking for Newer Version..."
+msgstr "Yeni Sürüm Kontrol Ediliyor..."
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_help.cc:51
+msgid "Failed to Retrieve Latest Version Information - Try Again Later"
+msgstr ""
+"Versiyon Bilgisine Bakılırken Bir Hata Oluştu - Daha Sonra Tekrar deneyin"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_help.cc:63
+msgid "A Newer Version Is Available!"
+msgstr "Yeni Bir Sürüm Bulundu!"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_help.cc:68
+msgid "You Are Using the Latest Version Available"
+msgstr "Zaten En Son Sürümü Kullanıyorsunuz"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_help.cc:71
+msgid "You Are Using a Development Version"
+msgstr "Geliştirme Sürümünü Kullanıyorsunuz"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_main_win.cc:449
+#, c-format
+msgid "The Document %s was Not Found"
+msgstr "%s Dökümanı Bulunamadı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_main_win.cc:467
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:57
+msgid "Open a Recent CherryTree Document"
+msgstr "Geçmişte Açılmış Bir CherryTree Dökümanı Aç"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_main_win.cc:479
+msgid "Hide"
+msgstr "Gizle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_main_win.cc:479
+msgid "Quit"
+msgstr "Çıkış"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_main_win.cc:480
+msgid "Hide the Window"
+msgstr "Pencereyi Gizle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_main_win.cc:480
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:80
+msgid "Quit the Application"
+msgstr "Uygula_madan Çıkış"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_main_win.cc:573
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_link.cc:242
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_tree.cc:35
+msgid "No Node is Selected"
+msgstr "Seçili Not Yok"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_main_win.cc:577
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_tree.cc:110
+msgid "Node Type"
+msgstr "Not Tipi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_main_win.cc:577
+#: /home/giuseppe/git/cherrytree/src/ct/ct_main_win.cc:589
+#: /home/giuseppe/git/cherrytree/src/ct/ct_main_win.cc:592
+#: /home/giuseppe/git/cherrytree/src/ct/ct_main_win.cc:595
+#: /home/giuseppe/git/cherrytree/src/ct/ct_main_win.cc:599
+#: /home/giuseppe/git/cherrytree/src/ct/ct_main_win.cc:603
+msgid ": "
+msgstr ": "
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_main_win.cc:589
+msgid "Tags"
+msgstr "Etiketler"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_main_win.cc:592
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_rich_text.cc:47
+msgid "Spell Check"
+msgstr "Yazım Denetimi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_main_win.cc:595
+msgid "Word Count"
+msgstr "Kelime Sayısı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_main_win.cc:599
+msgid "Date Created"
+msgstr "Oluşturulma Tarihi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_main_win.cc:603
+msgid "Date Modified"
+msgstr "Düzenlenme Tarihi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_kb_shortcuts.cc:62
+msgid "Change Selected"
+msgstr "Seçili Olanı Değiştir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_kb_shortcuts.cc:123
+#, c-format
+msgid "The Keyboard Shortcut '%s' is already in use"
+msgstr "'%s' Klavye Kısayolu Zaten Kullanımda"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_kb_shortcuts.cc:124
+#, c-format
+msgid "The current associated action is '%s'"
+msgstr "Aktif '%s' ilişkilendirildi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_kb_shortcuts.cc:125
+msgid "Do you want to steal the shortcut?"
+msgstr "Kısayolu değiştirmek (çalmak:) ) istediğinizden emin misiniz?"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_kb_shortcuts.cc:145
+msgid "Edit Keyboard Shortcut"
+msgstr "Klavye Kısayollarını Düzenle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_kb_shortcuts.cc:153
+msgid "No Keyboard Shortcut"
+msgstr "Klavye Kısayolu Yok"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_link.cc:122
+msgid "Anchor Name (optional)"
+msgstr "Çapa İsmine (İsteğe Bağlı)"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_link.cc:253
+msgid "There are No Anchors in the Selected Node"
+msgstr "Seçili Not İçinde Hiç Çapa Yok"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_link.cc:260
+msgid "Choose Existing Anchor"
+msgstr "Oluşturulmuş Çapa Seç"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_link.cc:260
+msgid "Anchor Name"
+msgstr "Çapa İsmi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_imports.cc:80
+#: /home/giuseppe/git/cherrytree/src/ct/ct_parser_html.cc:593
+msgid "Downloading"
+msgstr "İndiriliyor"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_storage_sqlite.cc:159
+#, c-format
+msgid "The database file %s is corrupt, see log for more details"
+msgstr "%s veri tabanı dosyası bozuk, daha fazla ayrıntı için günlüğe bakın"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_storage_sqlite.cc:207
+#, c-format
+msgid ""
+"%s write failed - file is missing. Reattach usb driver or shared resource"
+msgstr ""
+"%s yazma hatası - dosya bulunamıyor. USB sürücüsünü veya paylaşılan kaynağı "
+"yeniden bağlayın"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_storage_sqlite.cc:210
+#, c-format
+msgid "%s write failed - is file blocked by a sync program?"
+msgstr ""
+"%s yazma hatası - dosya bir senkronizasyon programı tarafından engellendi mi?"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_edit.cc:87
+msgid "Image Format Not Recognized"
+msgstr "Resim Dosyası Biçimi Belirlenemedi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_edit.cc:95
+msgid "Insert Table"
+msgstr "Tablo Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_edit.cc:111
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_others.cc:712
+msgid "CSV File"
+msgstr "CSV Dosyası"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_edit.cc:155
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:87
+msgid "Insert a CodeBox"
+msgstr "Kod Kutusu Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_edit.cc:199
+#, c-format
+msgid "The Maximum Size for Embedded Files is %s MB"
+msgstr "Gömülü Dosya için boyut sınırı en fazla %s MB olmalı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_edit.cc:201
+msgid "Do you want to Continue?"
+msgstr "Devam etmek istiyor musunuz?"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_edit.cc:847
+msgid "Lines Stripped"
+msgstr "Boş Satırlar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_edit.cc:855
+msgid "Image Properties"
+msgstr "Resim Özellikleri"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_text_n_code.cc:31
+msgid "Tab Width"
+msgstr "Tab Genişliği"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_text_n_code.cc:37
+msgid "Insert Spaces Instead of Tabs"
+msgstr "Sekmelerin Yerine Boşluk Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_text_n_code.cc:39
+msgid "Use Line Wrapping"
+msgstr "Satır Girintisi Kullan"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_text_n_code.cc:43
+msgid "Line Wrapping Indentation"
+msgstr "Satır Girintisi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_text_n_code.cc:50
+msgid "Enable Automatic Indentation"
+msgstr "Otomatik Girintiyi Aktif Et"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_text_n_code.cc:54
+msgid "Scroll Beyond Last Line"
+msgstr "Son Satırın Ötesine Kaydır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_text_n_code.cc:58
+msgid "Vertical Space Around Lines"
+msgstr "Çizgiler Etrafında Düşey Boşluk"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_text_n_code.cc:68
+msgid "Vertical Space in Wrapped Lines"
+msgstr "Girintili Satırlarda Düşey Boşluk"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_text_n_code.cc:91
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_special_chars.cc:117
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_plain_text_n_code.cc:42
+msgid "Text Editor"
+msgstr "Metin Düzenleyici"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_text_n_code.cc:95
+msgid "Timestamp Format"
+msgstr "Zaman Bilgisi Biçimi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_text_n_code.cc:101
+msgid "Online Manual"
+msgstr "İnternet Yardım Dosyası"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_text_n_code.cc:107
+msgid "Horizontal Rule"
+msgstr "Yatay Kural"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_text_n_code.cc:120
+msgid "Chars to Select at Double Click"
+msgstr "Karakteri Çift Tıklayarak Seç"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_storage_control.cc:105
+#: /home/giuseppe/git/cherrytree/src/ct/ct_storage_control.cc:165
+msgid "Writing to Disk..."
+msgstr "Diske Yazılıyor..."
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_storage_control.cc:191
+#: /home/giuseppe/git/cherrytree/src/ct/ct_storage_control.cc:197
+#: /home/giuseppe/git/cherrytree/src/ct/ct_storage_control.cc:332
+#: /home/giuseppe/git/cherrytree/src/ct/ct_storage_control.cc:339
+#, c-format
+msgid "You Have No Write Access to %s"
+msgstr "%s Klasörüne/Sürücüsüne Yazma İzniniz Yok"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_storage_control.cc:255
+#, c-format
+msgid "Enter Password for %s"
+msgstr "%s İçin Parolayı Girin"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:33
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:153
+msgid "Handle the Bookmarks List"
+msgstr "Yer İmleri Listesini Düzenle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:61
+msgid "Move the Selected Bookmark Up"
+msgstr "Seçili Favoriyi Üste Taşı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:64
+msgid "Move the Selected Bookmark Down"
+msgstr "Seçili Favoriyi Alta Taşı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:67
+msgid "Remove the Selected Bookmark"
+msgstr "Seçili Favoriyi Sil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:70
+msgid "Sort the Bookmarks Descending"
+msgstr "Favorileri Ters-Alfabetik Sırala (Z-A)"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:73
+msgid "Sort the Bookmarks Ascending"
+msgstr "Favorileri Alfabetik Sırala (A-Z)"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:213
+msgid "Choose Storage Type"
+msgstr "Kayıt Türünü Seçin"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:223
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:226
+msgid "Not Protected"
+msgstr "Korumasız"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:225
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:227
+msgid "Password Protected"
+msgstr "Parola Korumalı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:235
+msgid "Storage Type"
+msgstr "Kayıt Türü"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:244
+msgid ""
+"CT saves the document in an encrypted 7zip archive. When viewing or editing "
+"the document, CT extracts the encrypted archive to a temporary folder, and "
+"works on the unencrypted copy. When closing, the unencrypted copy is deleted "
+"from the temporary directory. Note that in the case of application or system "
+"crash, the unencrypted document will remain in the temporary folder."
+msgstr ""
+"CT dosyaları şifreli 7Zip arşivinde kaydedilir. Bir dosyayı okurken veya "
+"düzenlerken, CT şifreli dosyayı geçici klasöre açarak şifresiz versiyonu "
+"üzerinde çalışır. Dosya kapatılırken şifresiz dosya geçici klasörden "
+"silinir. Herhangi bir sistem veya uygulama hatasında şifresiz dosyanın "
+"geçici klasörden silinmeyeceğini unutmayın."
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:252
+msgid "Enter the New Password Twice"
+msgstr "Yeni Parolayı İki Defa Yazın"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:333
+msgid "The Password Fields Must be Filled"
+msgstr "Girilen Parolalar Aynı Olmalı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:338
+msgid "The Two Inserted Passwords Do Not Match"
+msgstr "Girilen Parolalar Uyuşmuyor"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:359
+msgid "The Current Document was Updated."
+msgstr "Aktif Doküman Güncellendi."
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:359
+msgid "Do you want to Save the Changes?"
+msgstr "Değişiklikleri Kaydetmek İstediğinizden Emin misiniz?"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:404
+msgid ""
+"A Hierarchical Note Taking Application, featuring Rich Text and Syntax "
+"Highlighting"
+msgstr ""
+"Zengin Metin ve Söz Dizimi Kuralları Özelliğine Sahip Bir Hiyerarşik Not "
+"Saklama Uygulaması"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:405
+msgid ""
+"\n"
+"This program is free software; you can redistribute it and/or modify\n"
+"it under the terms of the GNU General Public License as published by\n"
+"the Free Software Foundation; either version 3 of the License, or\n"
+"(at your option) any later version.\n"
+"\n"
+"This program is distributed in the hope that it will be useful,\n"
+"but WITHOUT ANY WARRANTY; without even the implied warranty of\n"
+"MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n"
+"GNU General Public License for more details.\n"
+"\n"
+"You should have received a copy of the GNU General Public License\n"
+"along with this program; if not, write to the Free Software\n"
+"Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,\n"
+"MA 02110-1301, USA.\n"
+msgstr ""
+"\n"
+" Bu yazılım bedavadır; dilediğiniz gibi kullanabilir, \n"
+"dağıtabilir ve/veya üzerinde değişiklik yapabilirsiniz. \n"
+"GNU Genel Kamu Lisansı v3 ile lisanslanmıştır. \n"
+"\n"
+"Bu yazılım herhangi bir garanti içermez. \n"
+"Kullanımıyla ilgili tüm sorumluluk ve \n"
+"yükümlülük size aittir. Daha fazla bilgi \n"
+"için GNU Kamu Lisansı belgesine bakabilirsiniz. \n"
+"\n"
+"Eğer GNU Kamu Lisansı ile ilgili bir probleminiz \n"
+"varsa aşağıda verilen adresle irtibata geçebilirsiniz. \n"
+"Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,\n"
+"MA 02110-1301, USA.\n"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:448
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:215
+msgid "About CherryTree"
+msgstr "CherryTree Hakkında"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:463
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:79
+msgid "Tree Summary Information"
+msgstr "Ağaç Özet Bilgisi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:475
+msgid "Number of Rich Text Nodes"
+msgstr "Zengin Metin Notlarının Sayısı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:480
+msgid "Number of Plain Text Nodes"
+msgstr "Düz Metin Notlarının Sayısı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:485
+msgid "Number of Code Nodes"
+msgstr "Kod Notlarının Sayısı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:490
+msgid "Number of Images"
+msgstr "Resimlerin Sayısı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:495
+msgid "Number of Embedded Files"
+msgstr "Gömülü Dosyaların Sayısı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:500
+msgid "Number of Tables"
+msgstr "Tabloların Sayısı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:505
+msgid "Number of CodeBoxes"
+msgstr "Kod Kutularının Sayısı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs.cc:510
+msgid "Number of Anchors"
+msgstr "Çapaların Sayısı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_theme.cc:32
+msgid "Light Background, Dark Text"
+msgstr "Açık Renk Arkaplan, Koyu Renk Metin"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_theme.cc:33
+msgid "Dark Background, Light Text"
+msgstr "Koyu Renk Arkaplan, Açık Renk Metin"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_theme.cc:35
+msgid "Custom Background"
+msgstr "Özel Arkaplan"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_theme.cc:39
+msgid "and Text"
+msgstr "ve Metin"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_theme.cc:84
+msgid "Table"
+msgstr "Tablo"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_theme.cc:91
+msgid "Code"
+msgstr "Kod"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_theme.cc:109
+msgid "Style Schemes"
+msgstr "Şema Tarzı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_theme.cc:159
+msgid "Text Foreground"
+msgstr "Yazı Rengi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_theme.cc:161
+msgid "Text Background"
+msgstr "Zemin Rengi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_theme.cc:163
+msgid "Selection Foreground"
+msgstr "Seçili Yazı Rengi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_theme.cc:165
+msgid "Selection Background"
+msgstr "Seçili Zemin Rengi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_theme.cc:167
+msgid "Cursor"
+msgstr "İmleç"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_theme.cc:169
+msgid "Current Line Background"
+msgstr "Aktif Çizgi Zemin Rengi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_theme.cc:171
+msgid "Line Numbers Foreground"
+msgstr "Satır Çizgi Numaraları Yazı Rengi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_theme.cc:173
+msgid "Line Numbers Background"
+msgstr "Satır Çizgi Numaraları Zemin Rengi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_theme.cc:320
+msgid "Style Scheme Editor"
+msgstr "Şema Tarzı Düzenleyici"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_export2pdf.cc:420
+msgid "Warning: One or More Images Were Reduced to Enter the Page"
+msgstr "Uyarı: Girilen Sayfada Bir Ya da Daha Fazla Resim Değiştirildi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_tree.cc:42
+msgid "The Tree is Empty!"
+msgstr "Ağaç boş!"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_tree.cc:51
+msgid "The Selected Node is Read Only"
+msgstr "Seçili Not, Yalnız Okunabilir. Düzenlenemez"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_tree.cc:64
+msgid "This Feature is Available Only in Rich Text Nodes"
+msgstr "Bu Özellik Sadece Zengin Metin Biçimindeki Notlarda Kullanılabilir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_tree.cc:66
+msgid "This Feature is Not Available in Automatic Syntax Highlighting Nodes"
+msgstr "Bu Özellik Otomatik Söz Dizimi Kurallı Notlarda Kullanılamaz"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_tree.cc:172
+msgid "New Child Node Properties"
+msgstr "Yeni Alt Not Özellikleri"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_tree.cc:172
+msgid "New Node Properties"
+msgstr "Yeni Not Özellikleri"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_tree.cc:292
+msgid "Node Properties"
+msgstr "Not Özellikleri"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_tree.cc:300
+msgid ""
+"Leaving the Node Type Rich Text you will Lose all Formatting for This Node, "
+"Do you want to Continue?"
+msgstr ""
+"Bu notun, zengin metin belgesi özelliğini değiştirirseniz, pek çok "
+"biçimlendirme özelliği kaybolacak. Yine de devam etmek ister misiniz?"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_tree.cc:404
+#, c-format
+msgid "Are you sure to <b>Delete the node '%s'?</b>"
+msgstr "'%s' notunu <b>silmek istediğinizden emin misiniz?</b>"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_tree.cc:406
+msgid "The node <b>has Children, they will be Deleted too!</b>"
+msgstr "Bu not, alt not(lar) içeriyor.<b>Tüm alt notlar da silinecek!</b>"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_tree.cc:530
+msgid "Select the New Parent"
+msgstr "Yeni Üst Notu Seçin"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_tree.cc:536
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_tree.cc:557
+msgid "The new parent can't be the very node to move!"
+msgstr "Yeni üst not, taşınan çok not olamaz!"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_tree.cc:540
+msgid "The new chosen parent is still the old parent!"
+msgstr "Seçilen yeni üst not, zaten halihazırda üst not!"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_tree.cc:545
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_tree.cc:562
+#: /home/giuseppe/git/cherrytree/src/ct/ct_main_win_events.cc:587
+msgid "The new parent can't be one of his children!"
+msgstr ""
+"Bir not, kendisine bağlı bir alt notun alt notu olamaz. (Biliyorum biraz "
+"karışık:))"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_export.cc:352
+msgid "PDF File"
+msgstr "PDF Dosyası"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_export.cc:373
+#: /home/giuseppe/git/cherrytree/src/ct/ct_imports.h:167
+msgid "Plain Text Document"
+msgstr "Düz Metin Belgesi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_special_chars.cc:59
+msgid "Chars for Bulleted List"
+msgstr "Madde İşaretli Liste Karakterleri"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_special_chars.cc:68
+msgid "Chars for Todo List"
+msgstr "Yapılacaklar Listesi İçin Karakterler"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_special_chars.cc:77
+msgid "Chars for Table Of Content"
+msgstr "İçindekiler İçin Karakterler"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_special_chars.cc:86
+msgid "Chars for Smart Double Quotes"
+msgstr "Akıllı Çift Tırnaklar İçin Karakterler"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_special_chars.cc:95
+msgid "Chars for Smart Single Quotes"
+msgstr "Akıllı Tek Tırnaklar İçin Karakterler"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_special_chars.cc:103
+msgid "Enable Smart Quotes Auto Replacement"
+msgstr "Akıllı Tırnakların Otomatik Değişimini Etkinleştir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_special_chars.cc:104
+msgid "Enable Symbol Auto Replacement"
+msgstr "Sembollerin Otomatik Değişimini Etkinleştir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_plain_text_n_code.cc:31
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_rich_text.cc:51
+msgid "Show White Spaces"
+msgstr "Beyaz Boşlukları Göster"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_plain_text_n_code.cc:33
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_rich_text.cc:53
+msgid "Highlight Current Line"
+msgstr "Aktif Satırı Vurgula"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_plain_text_n_code.cc:91
+msgid "Command per Node/CodeBox Type"
+msgstr "Herbir Not/Kod Kutusuna Komut"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_plain_text_n_code.cc:95
+msgid "Terminal Command"
+msgstr "Terminal Komutu"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_plain_text_n_code.cc:100
+msgid "Code Execution"
+msgstr "Kod Yürütme"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_tree.cc:48
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_rich_text.cc:208
+msgid "Bold"
+msgstr "Koyu"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_tree.cc:52
+msgid "Use Selected Color"
+msgstr "Seçili Rengi Kullan"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_tree.cc:58
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_tree.cc:32
+msgid "Use Selected Icon"
+msgstr "Seçili Simgeyi Kullan"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_tree.cc:65
+msgid "click me"
+msgstr "buraya tıkla"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_tree.cc:124
+msgid "Tags for Searching"
+msgstr "Aramada Kullanılacak Etiketler"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_tree.cc:128
+msgid "Read Only"
+msgstr "Yalnızca Oku"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_tree.cc:172
+msgid "Choose Existing Tag"
+msgstr "Var Olan Etiketi Seç"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_tree.cc:172
+msgid "Tag Name"
+msgstr "Etiket İsmi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_tree.cc:191
+msgid "Pick a Color"
+msgstr "Renk Seçin"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_tree.cc:205
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_tree.cc:160
+msgid "Select Node Icon"
+msgstr "Not Simgesini Seç"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_tree.cc:364
+msgid "Involved Nodes"
+msgstr "İçeren Notlar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_tree.cc:373
+msgid "Selected Text Only"
+msgstr "Yalnızca Seçili Metin"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_tree.cc:374
+msgid "Selected Node Only"
+msgstr "Yalnızca Seçili Not"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_tree.cc:375
+msgid "Selected Node and Subnodes"
+msgstr "Seçili Not ve Alt Notlar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_tree.cc:376
+msgid "All the Tree"
+msgstr "Tüm Ağaç"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_tree.cc:390
+msgid "Include Node Name"
+msgstr "Not İsmini İçeren"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_tree.cc:397
+msgid "Links Tree in Every Page"
+msgstr "Herbir Sayfadaki Ağaç Linkleri"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_tree.cc:403
+msgid "New Node in New Page"
+msgstr "Özel Karakter Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_dialogs_tree.cc:408
+msgid "Single File"
+msgstr "Tek dosya"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_others.cc:185
+msgid "Rename"
+msgstr "Yeniden Adlandır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_others.cc:199
+msgid "PNG Image"
+msgstr "PNG Resmi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_others.cc:211
+#, c-format
+msgid "Write to %s Failed"
+msgstr "%s Kısmına Yazma Hatası"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_others.cc:307
+#, c-format
+msgid "The File Link '%s' is Not Valid"
+msgstr "'%s' Geçerli Bir Dosya Linki Değil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_others.cc:318
+#, c-format
+msgid "The Folder Link '%s' is Not Valid"
+msgstr "'%s' Geçerli Bir Klasör Linki Değil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_others.cc:350
+#, c-format
+msgid "No anchor named '%s' found"
+msgstr "'%s' isminde çapa bulunamadı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_others.cc:410
+msgid "Edit CodeBox"
+msgstr "Kod Kutusunu Düzenle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_others.cc:434
+msgid "No CodeBox is Selected"
+msgstr "Seçili Kod Kutusu Yok"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_others.cc:442
+#, c-format
+msgid ""
+"You must associate a command to '%s'.\n"
+"Do so in the Preferences Dialog"
+msgstr ""
+"'%s' için bir komut belirlemesiniz.\n"
+"Seçenekler ekranına gidin"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_others.cc:454
+msgid "Do you want to Execute the Code?"
+msgstr "Kodu Çalıştırmak İstediğinizden Emin misiniz?"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_others.cc:471
+msgid ""
+"Install the package 'xterm' or configure a different terminal in the "
+"Preferences Dialog"
+msgstr ""
+"'xterm' paketini yükleyin ve seçenekler ekranında farklı bir terminal "
+"ayarlayın"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_others.cc:701
+msgid "Edit Table Properties"
+msgstr "Tablo Özelliklerini Düzenle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_others.cc:737
+msgid "Insert Anchor"
+msgstr "Çapa Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_others.cc:737
+msgid "Edit Anchor"
+msgstr "Çapa Düzenle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_others.cc:773
+msgid "Cannot Edit Embedded File in Read Only Node"
+msgstr "Yalnız Okunabilir özelliğinde olan nottaki gömülü dosya düzenlenemez"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_others.cc:786
+msgid "Embedded File Automatically Updated:"
+msgstr "Gömülü Dosya Otomatik Güncellendi:"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_rich_text.cc:30
+msgid "Enable Spell Check"
+msgstr "Yazım Denetimini Aç"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_rich_text.cc:34
+msgid "Spell Check Language"
+msgstr "Yazım Denetimi Dili"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_rich_text.cc:57
+msgid "Expand CodeBoxes Automatically"
+msgstr "Kod Kutularını Otomatik Genişlet"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_rich_text.cc:62
+msgid "Embedded File Icon Size"
+msgstr "Gömülü Dosya Simge Boyutu"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_rich_text.cc:71
+msgid "Embedded File Size Limit"
+msgstr "Gömülü Dosya Boyutu"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_rich_text.cc:78
+msgid "Show File Name on Top of Embedded File Icon"
+msgstr "Gömülü Dosya Simgesinin Üstünde Dosya Adını Göster"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_rich_text.cc:80
+msgid "Limit of Undoable Steps Per Node"
+msgstr "Bir Notta Geri Alınabilecek Adım Sayısı Sınırı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_rich_text.cc:86
+msgid "At Triple Click Select the Whole Paragraph"
+msgstr "Üç Tıklamada Tüm Paragrafı Seçin"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_rich_text.cc:89
+msgid "Enable Markdown Auto Replacement (Experimental)"
+msgstr "Otomatik Değiştirme İşaretlemeyi Etkinleştir (Deneysel)"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_rich_text.cc:204
+msgid "Scale"
+msgstr "Ölçek"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_rich_text.cc:209
+msgid "Italic"
+msgstr "Eğik"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_rich_text.cc:210
+msgid "Underline"
+msgstr "Altı Çizili"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_rich_text.cc:225
+msgid "Text Color Foreground"
+msgstr "Yazı Rengi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_rich_text.cc:228
+msgid "Text Color Background"
+msgstr "Yazı Zemin Rengi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_rich_text.cc:244
+msgid "Small"
+msgstr "Küçük"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_rich_text.cc:249
+msgid "Monospace Text Color Background"
+msgstr "Tek Aralıklı Yazı Zemin Rengi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_rich_text.cc:260
+msgid "Scalable Tags"
+msgstr "Ölçeklenebilir Etiketler"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_tree.cc:31
+msgid "Use Different Cherries per Level"
+msgstr "Herbir Bölümde Farklı Çilek Simgeleri Kullan"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_tree.cc:34
+msgid "No Icon"
+msgstr "Simge Yok"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_tree.cc:36
+msgid "Hide Right Side Auxiliary Icon"
+msgstr "Sağ Taraftaki Yardımcı Simgeleri Gizle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_tree.cc:49
+msgid "Default Text Nodes Icons"
+msgstr "Yazı Notlarında Varsayılan Simgeler"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_tree.cc:57
+msgid "Restore Expanded/Collapsed Status"
+msgstr "Notları Genişlet/Daralt"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_tree.cc:58
+msgid "Expand all Nodes"
+msgstr "Tüm Notları Genişlet"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_tree.cc:60
+msgid "Collapse all Nodes"
+msgstr "Tüm Notları Daralt"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_tree.cc:62
+msgid "Nodes in Bookmarks Always Visible"
+msgstr "Yer İmlerindeki Notların Simgeleri Her Zaman Gizli"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_tree.cc:70
+msgid "Nodes Status at Startup"
+msgstr "Başlangıçta Notların Durumu"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_tree.cc:78
+msgid "Tree Nodes Names Wrapping Width"
+msgstr "Ağaç Not İsimleri Girintileme Genişliği"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_tree.cc:86
+msgid "Display Tree on the Right Side"
+msgstr "Ağacı Sağ Tarafta Göster"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_tree.cc:88
+msgid "Move Focus to Text at Mouse Click"
+msgstr "Fareyle Tıklandığında Yazı Kutusuna Odaklan"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_tree.cc:90
+msgid "Expand Node at Mouse Click"
+msgstr "Fareyle Tıklandığında Notu Genişlet"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg_tree.cc:93
+msgid "Last Visited Nodes on Node Name Header"
+msgstr "Not Adı Başlağında Son Ziyaret Edilen Notlar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_view.cc:80
+msgid "The Size of the Toolbar Icons is already at the Maximum Value"
+msgstr "Araç Çubuğu simge boyutu zaten en büyük değerinde seçili durumda"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_actions_view.cc:91
+msgid "The Size of the Toolbar Icons is already at the Minimum Value"
+msgstr "Araç Çubuğu simge boyutu zaten en küçük değerinde seçili durumda"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:41
+msgid "_File"
+msgstr "_Dosya"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:42
+msgid "_Edit"
+msgstr "Dü_zen"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:43
+msgid "_Insert"
+msgstr "Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:44
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:67
+msgid "_Format"
+msgstr "Biçim"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:45
+msgid "_Tree"
+msgstr "_Ağaç"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:46
+msgid "_Tools"
+msgstr "Araçlar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:47
+msgid "_Search"
+msgstr "A_ra"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:48
+msgid "_View"
+msgstr "_Görünüm"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:49
+msgid "_Help"
+msgstr "_Yardım"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:52
+msgid "Node _Move"
+msgstr "Notu _Taşı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:53
+msgid "Nodes _Sort"
+msgstr "Notları Sırala"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:54
+msgid "_Bookmarks"
+msgstr "Yer İ_mleri"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:55
+msgid "_Import"
+msgstr "İç_e Aktar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:56
+msgid "_Export"
+msgstr "Dışa Aktar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:57
+msgid "_Recent Documents"
+msgstr "Açılan Dökümanlar Geçmişi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:58
+msgid "C_hange Case"
+msgstr "Bü_yük/Küçük Harf Değiştir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:59
+msgid "_List"
+msgstr "Liste"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:60
+msgid "_Justify"
+msgstr "Doğrula"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:61
+msgid "_Toggle Font Property"
+msgstr "Yazıtipi Özelliğini Değiştir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:62
+msgid "_Toggle Heading Property"
+msgstr "Başlık Özelliğini Değiştir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:63
+msgid "I_nsert"
+msgstr "Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:64
+msgid "_Find"
+msgstr "Bul"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:65
+msgid "_Replace"
+msgstr "Değ_iştir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:66
+msgid "_Row"
+msgstr "Satır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:70
+msgid "File"
+msgstr "Dosya"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:71
+msgid "New _Instance"
+msgstr "Yeni _Veritabanı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:71
+msgid "Start a New Instance of CherryTree"
+msgstr "CherryTreeyi Yeni Bir Veri Tabanıyla Başlat"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:72
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:227
+msgid "_Open File"
+msgstr "_Dosya Aç"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:73
+msgid "_Save"
+msgstr "_Kaydet"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:73
+msgid "Save File"
+msgstr "Dosyayı Kaydet"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:74
+msgid "Save and _Vacuum"
+msgstr "Kaydet ve Boşlukları Kaldır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:74
+msgid "Save File and Vacuum"
+msgstr "Dosyayı  Kaydet ve Boşlukları Kaldır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:75
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:226
+msgid "Save _As"
+msgstr "Farklı Kaydet"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:75
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:226
+msgid "Save File As"
+msgstr "Yeni Dosya Olarak  Kaydet"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:76
+msgid "Pa_ge Setup"
+msgstr "Say_fa Ayarı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:76
+msgid "Set up the Page for Printing"
+msgstr "Sayfa Yazdırma Ayarları"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:77
+msgid "_Print"
+msgstr "Yazdı_r"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:77
+msgid "Print"
+msgstr "Yazdır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:78
+msgid "_Preferences"
+msgstr "_Seçenekler"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:79
+msgid "Tree _Info"
+msgstr "Ağaç Bilgisi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:80
+msgid "_Quit"
+msgstr "Çı_kış"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:82
+msgid "Edit/Insert"
+msgstr "Ekle/Düzenle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:83
+msgid "_Undo"
+msgstr "Son İşleri _Geri Al"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:83
+msgid "Undo Last Operation"
+msgstr "Son İşlemi Geri Al"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:84
+msgid "_Redo"
+msgstr "_Yinele"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:84
+msgid "Redo Previously Discarded Operation"
+msgstr "Önce İptal Edilen İşlemi Yinele"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:85
+msgid "Insert I_mage"
+msgstr "Res_im Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:85
+msgid "Insert an Image"
+msgstr "Bir Resim Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:86
+msgid "Insert _Table"
+msgstr "_Tablo Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:86
+msgid "Insert a Table"
+msgstr "Bir Tablo Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:87
+msgid "Insert _CodeBox"
+msgstr "Kod Kutusu E_kle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:88
+msgid "Insert _File"
+msgstr "_Dosya Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:88
+msgid "Insert File"
+msgstr "Dosya Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:89
+msgid "Insert/Edit _Link"
+msgstr "_Link Ekle/Düzenle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:89
+msgid "Insert a Link/Edit the Underlying Link"
+msgstr "Link Ekle/Seçili Linki Düzenle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:90
+msgid "Insert _Anchor"
+msgstr "Çapa Metin Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:90
+msgid "Insert an Anchor"
+msgstr "Çapa Metin Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:91
+msgid "Insert T_OC"
+msgstr "İçindekiler Tablosu Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:91
+msgid "Insert Table of Contents"
+msgstr "İçindekiler Tablosu Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:92
+msgid "Insert Ti_mestamp"
+msgstr "Zaman Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:92
+msgid "Insert Timestamp"
+msgstr "Zaman Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:93
+msgid "Insert _Special Character"
+msgstr "Özel Karakter Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:93
+msgid "Insert a Special Character"
+msgstr "Özel Karakter Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:94
+msgid "Insert _Horizontal Rule"
+msgstr "Yatay Ayırıcı Çizgi Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:94
+msgid "Insert Horizontal Rule"
+msgstr "Yatay Ayırıcı Çizgi Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:95
+msgid "_Lower Case of Selection/Word"
+msgstr "Seçimi/Kelimeyi küçük harfe Dönüştür"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:95
+msgid "Lower the Case of the Selection/the Underlying Word"
+msgstr "Seçimi/Kelimeyi küçük harfe Dönüştür"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:96
+msgid "_Upper Case of Selection/Word"
+msgstr "Seçimi/Kelimeyi BÜYÜK HARFE Dönüştür"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:96
+msgid "Upper the Case of the Selection/the Underlying Word"
+msgstr "Seçimi/Kelimeyi BÜYÜK HARFE Dönüştür"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:97
+msgid "_Toggle Case of Selection/Word"
+msgstr "Seçimin/Kelimenin Büyük/Küçük Harfini Diğerlerine Uydur"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:97
+msgid "Toggle the Case of the Selection/the Underlying Word"
+msgstr "Seçimin/Kelimenin Büyük/Küçük Harfini Diğerlerine Uydur"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:98
+msgid "Cu_t as Plain Text"
+msgstr "Düz Metin Olarak Kes"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:98
+msgid "Cut as Plain Text, Discard the Rich Text Formatting"
+msgstr "Düz Metin Olarak Kes, Zengin Metin Biçimini Bırak"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:99
+msgid "_Copy as Plain Text"
+msgstr "Düz Metin Olarak Kopyala"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:99
+msgid "Copy as Plain Text, Discard the Rich Text Formatting"
+msgstr "Düz Metin Olarak Kopyala, Zengin Metin Biçimini Bırak"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:100
+msgid "_Paste as Plain Text"
+msgstr "Düz Metin Olarak Yapıştır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:100
+msgid "Paste as Plain Text, Discard the Rich Text Formatting"
+msgstr "Düz Metin Olarak Yapıştır, Zengin Metin Biçimini Bırak"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:101
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:263
+msgid "Cu_t Row"
+msgstr "Satırı Kes"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:101
+msgid "Cut the Current Row/Selected Rows"
+msgstr "Aktif Satırı/Seçili Satırları Kes"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:102
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:264
+msgid "_Copy Row"
+msgstr "Satırı Kopyala"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:102
+msgid "Copy the Current Row/Selected Rows"
+msgstr "Aktif Satırı/Seçili Satırları Kopyala"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:103
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:266
+msgid "De_lete Row"
+msgstr "Satırı Sil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:103
+msgid "Delete the Current Row/Selected Rows"
+msgstr "Aktif Satırı/Seçili Satırları Sil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:104
+msgid "_Duplicate Row"
+msgstr "Satırı Birebir Kopyala"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:104
+msgid "Duplicate the Current Row/Selection"
+msgstr "Aktif Satırı/Seçimi Birebir Kopyala"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:105
+msgid "Move _Up Row"
+msgstr "Satırı Üste Taşı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:105
+msgid "Move Up the Current Row/Selected Rows"
+msgstr "Aktif Satırı/Seçili Satırları Üste Taşı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:106
+msgid "Move _Down Row"
+msgstr "Satırı Alta Taşı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:106
+msgid "Move Down the Current Row/Selected Rows"
+msgstr "Aktif Satırı/Seçili Satırları Alta Taşı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:108
+msgid "Format C_lone"
+msgstr "Benzer Biçim"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:108
+msgid "Clone the Text Format Type at Cursor"
+msgstr "İmleçteki Yazıtipi Biçimini Klonla"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:109
+msgid "Format _Latest"
+msgstr "Son Biçimlendirme"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:109
+msgid "Memory of Latest Text Format Type"
+msgstr "Son Yazı Biçimlendirme Tipi Kaydı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:110
+msgid "_Remove Formatting"
+msgstr "Biçimlendirmeyi Kaldır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:110
+msgid "Remove the Formatting from the Selected Text"
+msgstr "Seçili Metnin Biçimlendirmesini Kaldır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:111
+msgid "Text _Color Foreground"
+msgstr "Yazı Rengi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:111
+msgid "Change the Color of the Selected Text Foreground"
+msgstr "Seçili Metnin Yazı Rengini Değiştir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:112
+msgid "Text C_olor Background"
+msgstr "Zemin Rengi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:112
+msgid "Change the Color of the Selected Text Background"
+msgstr "Seçili Metnin Zemin Rengini Değiştir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:113
+msgid "Toggle _Bold Property"
+msgstr "Koyuluk Ayarı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:113
+msgid "Toggle Bold Property of the Selected Text"
+msgstr "Seçili Metnin Koyuluk Ayarını Uyarla"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:114
+msgid "Toggle _Italic Property"
+msgstr "Yatıklık Ayarı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:114
+msgid "Toggle Italic Property of the Selected Text"
+msgstr "Seçili Metnin Yatıklık Ayarını Uyarla"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:115
+msgid "Toggle _Underline Property"
+msgstr "Altıçizili Ayarı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:115
+msgid "Toggle Underline Property of the Selected Text"
+msgstr "Seçili Metnin Altıçizili Ayarını Uyarla"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:116
+msgid "Toggle Stri_kethrough Property"
+msgstr "Üzeriçizili Ayarı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:116
+msgid "Toggle Strikethrough Property of the Selected Text"
+msgstr "Seçili Metnin Üzeriçizili Ayarını Uyarla"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:117
+msgid "Toggle h_1 Property"
+msgstr "Birinci Sütun Ayarı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:117
+msgid "Toggle h1 Property of the Selected Text"
+msgstr "Seçili Metnin Birinci Sütun Ayarını Uyarla"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:118
+msgid "Toggle h_2 Property"
+msgstr "İkinci Sütun Ayarı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:118
+msgid "Toggle h2 Property of the Selected Text"
+msgstr "Seçili Metnin İkinci Sütun Ayarını Uyarla"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:119
+msgid "Toggle h_3 Property"
+msgstr "Üçüncü Sütun Ayarı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:119
+msgid "Toggle h3 Property of the Selected Text"
+msgstr "Seçili Metnin Üçüncü Sütun Ayarını Uyarla"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:120
+msgid "Toggle h_4 Property"
+msgstr "Dördüncü Sütun Ayarı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:120
+msgid "Toggle h4 Property of the Selected Text"
+msgstr "Seçili Metnin Dördüncü Sütun Ayarını Uyarla"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:121
+msgid "Toggle h_5 Property"
+msgstr "Beşinci Sütun Ayarı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:121
+msgid "Toggle h5 Property of the Selected Text"
+msgstr "Seçili Metnin Beşinci Sütun Ayarını Uyarla"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:122
+msgid "Toggle h_6 Property"
+msgstr "Altıncı Sütun Ayarı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:122
+msgid "Toggle h6 Property of the Selected Text"
+msgstr "Seçili Metnin Altıncı Sütun Ayarını Uyarla"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:123
+msgid "Toggle _Small Property"
+msgstr "Dipnot Metni Ayarı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:123
+msgid "Toggle Small Property of the Selected Text"
+msgstr "Seçili Metnin Dipnot Metni Ayarını Uyarla"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:124
+msgid "Toggle Su_perscript Property"
+msgstr "Superscript Ayarı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:124
+msgid "Toggle Superscript Property of the Selected Text"
+msgstr "Seçili Metnin Superscript Ayarını Uyarla"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:125
+msgid "Toggle Su_bscript Property"
+msgstr "Subscript Ayarı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:125
+msgid "Toggle Subscript Property of the Selected Text"
+msgstr "Seçili Metnin Subscript Ayarını Uyarla"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:126
+msgid "Toggle _Monospace Property"
+msgstr "Sabit Boşluk Ayarını Uyarla"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:126
+msgid "Toggle Monospace Property of the Selected Text"
+msgstr "Seçili Metinde Sabit Boşluk Ayarını Uyarla"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:127
+msgid "Set/Unset _Bulleted List"
+msgstr "Maddelendirmeyi Uygula/Kaldır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:127
+msgid "Set/Unset the Current Paragraph/Selection as a Bulleted List"
+msgstr "Seçili Metinde Maddelendirmeyi Uygula/Kaldır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:128
+msgid "Set/Unset _Numbered List"
+msgstr "Numaralandırmayı Uygula/Kaldır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:128
+msgid "Set/Unset the Current Paragraph/Selection as a Numbered List"
+msgstr "Seçili Metinde Numaralandırmayı Uygula/Kaldır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:129
+msgid "Set/Unset _To-Do List"
+msgstr "Kutucuk Maddelendirmesini Uygula/Kaldır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:129
+msgid "Set/Unset the Current Paragraph/Selection as a To-Do List"
+msgstr "Seçili Metinde Kutucuk Maddelendirmesini Uygula/Kaldır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:130
+msgid "Justify _Left"
+msgstr "Sola Hizala"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:130
+msgid "Justify Left the Current Paragraph"
+msgstr "Aktif Paragrafı Sola Hizala"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:131
+msgid "Justify _Center"
+msgstr "Ortaya Hizala"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:131
+msgid "Justify Center the Current Paragraph"
+msgstr "Aktif Paragrafı Ortaya Hizala"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:132
+msgid "Justify _Right"
+msgstr "Sağa Hizala"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:132
+msgid "Justify Right the Current Paragraph"
+msgstr "Aktif Paragrafı Sağa Hizala"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:133
+msgid "Justify _Fill"
+msgstr "Doluluğa Hizala"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:133
+msgid "Justify Fill the Current Paragraph"
+msgstr "Geçerli Paragrafa Hizala"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:134
+msgid "Indent Paragraph"
+msgstr "Girintili Paragraf"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:134
+msgid "Indent the Current Paragraph"
+msgstr "Geçerli Paragrafı Girintile"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:135
+msgid "Unindent Paragraph"
+msgstr "Paragraf Girintisini Kaldır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:135
+msgid "Unindent the Current Paragraph"
+msgstr "Geçerli Paragrafın Girintisini Kaldır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:136
+msgid "Tools"
+msgstr "Araçlar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:137
+msgid "Enable/Disable _Spell Check"
+msgstr "Yazım Kontrolünü Aktif/Pasif Yap"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:137
+msgid "Toggle Enable/Disable Spell Check"
+msgstr "Yazım Kontrolünün Aktif/Pasif Durumunu Değiştir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:138
+msgid "Stri_p Trailing Spaces"
+msgstr "Şerit İzi Boşlukları"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:138
+msgid "Strip Trailing Spaces"
+msgstr "Şerit İzi Boşlukları"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:139
+msgid "_Command Palette"
+msgstr "Komut Paleti"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:139
+msgid "Command Palette"
+msgstr "Komut Paleti"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:140
+msgid "_Execute Code"
+msgstr "Kod Kutusunu Çalıştır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:140
+msgid "Execute Code"
+msgstr "Kodu Çalıştır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:141
+msgid "Tree"
+msgstr "Ağaç"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:142
+msgid "Go _Back"
+msgstr "Geri Git"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:142
+msgid "Go to the Previous Visited Node"
+msgstr "Önceki Seçili Nota Git"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:143
+msgid "Go _Forward"
+msgstr "Sonrakine Git"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:143
+msgid "Go to the Next Visited Node"
+msgstr "Son Seçili Nota Git"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:144
+msgid "Add _Node"
+msgstr "Not Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:144
+msgid "Add a Node having the same Parent of the Selected Node"
+msgstr "Seçili Notun Üst Notuyla Aynı Özellikte Not Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:145
+msgid "Add _SubNode"
+msgstr "Alt Not Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:145
+msgid "Add a Child Node to the Selected Node"
+msgstr "Seçili Nota Bir Alt Not Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:146
+msgid "_Duplicate Node"
+msgstr "Notun Kopyasını Oluştur"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:146
+msgid "Duplicate the Selected Node"
+msgstr "Seçili Notun Kopyasını Oluştur"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:147
+msgid "_Duplicate Node and Sub Nodes"
+msgstr "Notu ve Alt Notları Çoğalt"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:147
+msgid "Duplicate the Selected Node With SubNodes"
+msgstr "Seçili Notun Alt Notlarıyla Kopyasını Oluştur"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:148
+msgid "Insert Today's Node"
+msgstr "Günün Notunu Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:148
+msgid "Insert a Node with Hierarchy Year/Month/Day"
+msgstr "Yıl/Ay/Gün Hiyerarşisiyle Yeni Not Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:149
+msgid "Change Node _Properties"
+msgstr "Not Özelliklerini Değiştir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:149
+msgid "Edit the Properties of the Selected Node"
+msgstr "Seçili Notun Özelliklerini Düzenle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:150
+msgid "Toggle _Read Only"
+msgstr "Yalnız Okunabilir Yap"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:150
+msgid "Toggle the Read Only Property of the Selected Node"
+msgstr "Seçili Notun Yalnız Okunabilir Olarak Belirle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:151
+msgid "Copy Link to Node"
+msgstr "Nota Linki Kopyala"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:151
+msgid "Copy Link to the Selected Node to Clipboard"
+msgstr "Seçili Nota Bağlantıyı Panoya Kopyala"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:152
+msgid "_Inherit Syntax"
+msgstr "Söz Dizim Kuralını Al"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:152
+msgid ""
+"Change the Selected Node's Children Syntax Highlighting to the Parent's "
+"Syntax Highlighting"
+msgstr "Seçili Alt Notun Söz Dizim Kuralını Ana Notun Kuralından Alarak Kullan"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:153
+msgid "_Handle Bookmarks"
+msgstr "Yer İmlerini Düzenle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:154
+msgid "Add to _Bookmarks"
+msgstr "Yer İmlerine Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:154
+msgid "Add the Current Node to the Bookmarks List"
+msgstr "Seçili Notu Yer İmlerine Listesine Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:155
+msgid "_Remove from Bookmarks"
+msgstr "Ye_r İmlerinden Sil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:155
+msgid "Remove the Current Node from the Bookmarks List"
+msgstr "Seçili Notu Yer İmlerine Listesinden Sil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:156
+msgid "E_xpand All Nodes"
+msgstr "Tüm Notları Genişlet"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:156
+msgid "Expand All the Tree Nodes"
+msgstr "Tüm Ağaçlardaki Notları Genişlet"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:157
+msgid "_Collapse All Nodes"
+msgstr "Tüm Notları Daralt"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:157
+msgid "Collapse All the Tree Nodes"
+msgstr "Tüm Notları Daralt"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:158
+msgid "Node _Up"
+msgstr "Notu Yukarı Taşı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:158
+msgid "Move the Selected Node Up"
+msgstr "Seçili Notu Yukarı Taşı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:159
+msgid "Node _Down"
+msgstr "Notu Aşağı Taşı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:159
+msgid "Move the Selected Node Down"
+msgstr "Seçili Notu Aşağı Taşı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:160
+msgid "Node _Left"
+msgstr "Notu Üst Not Yap (Sola Taşı)"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:160
+msgid "Move the Selected Node Left"
+msgstr "Seçili Notu Üst Not Yap (Sola Taşı)"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:161
+msgid "Node _Right"
+msgstr "Notu Alt Not Yap (Sağa Taşı)"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:161
+msgid "Move the Selected Node Right"
+msgstr "Seçili Notu Alt Not Yap (Sağa Taşı)"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:162
+msgid "Node Change _Parent"
+msgstr "Notun Üst Not Bağlantısını Değiştir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:162
+msgid "Change the Selected Node's Parent"
+msgstr "Seçili Notun Üst Not Bağlantısını Değiştir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:163
+msgid "Sort Tree _Ascending"
+msgstr "Ağacı Sırala (A-Z)"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:163
+msgid "Sort the Tree Ascending"
+msgstr "Ağacı Alfabetik Sırala (A-Z)"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:164
+msgid "Sort Tree _Descending"
+msgstr "Ağacı Ters Sırala (Z-A)"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:164
+msgid "Sort the Tree Descending"
+msgstr "Ağacı Ters-Alfabetik Sırala (Z-A)"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:165
+msgid "Sort Siblings A_scending"
+msgstr "Alt Notları Sırala (A-Z)"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:165
+msgid "Sort all the Siblings of the Selected Node Ascending"
+msgstr "Seçili Notun Alt Notlarını Alfabetik Sırala (A-Z)"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:166
+msgid "Sort Siblings D_escending"
+msgstr "Alt Notları Sırala (A-Z)"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:166
+msgid "Sort all the Siblings of the Selected Node Descending"
+msgstr "Seçili Notun Alt Notlarını Ters-Alfabetik Sırala (Z-A)"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:167
+msgid "De_lete Node"
+msgstr "Notu Sil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:167
+msgid "Delete the Selected Node"
+msgstr "Seçili Notu Sil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:168
+msgid "Find/Replace"
+msgstr "Bul/Değiştir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:169
+msgid "_Find in Node Content"
+msgstr "Not İçeriğini Bul"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:169
+msgid "Find into the Selected Node Content"
+msgstr "Seçili Notta İçeriği Bul"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:170
+msgid "Find in _All Nodes Contents"
+msgstr "Tüm Notlarda İçeriği Bul"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:170
+msgid "Find into All the Tree Nodes Contents"
+msgstr "Tüm Notlarda İçeriği Bul"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:171
+msgid "Find in _Selected Node and Subnodes Contents"
+msgstr "Seçili Notta ve Alt Notlarda İçeriği Bul"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:171
+msgid "Find into the Selected Node and Subnodes Contents"
+msgstr "Seçili Notta ve Alt Notlarda İçeriği Bul"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:172
+msgid "Find in _Nodes Names and Tags"
+msgstr "Not İsimlerini ve Etiketleri Bul"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:172
+msgid "Find in Nodes Names and Tags"
+msgstr "Not İsimlerini ve Etiketleri Bul"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:173
+msgid "Find _Again"
+msgstr "Tekrar Ara"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:173
+msgid "Iterate the Last Find Operation"
+msgstr "Son Arama İşlemini Yinele"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:174
+msgid "Find _Back"
+msgstr "Öncekini Bul"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:174
+msgid "Iterate the Last Find Operation in Opposite Direction"
+msgstr "Karşıt Yönde Son Arama İşlemini Yinele"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:175
+msgid "_Replace in Node Content"
+msgstr "Not İçeriğini Değiştir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:175
+msgid "Replace into the Selected Node Content"
+msgstr "Seçili Notta İçeriği Değiştir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:176
+msgid "Replace in _All Nodes Contents"
+msgstr "Tüm Notlarda İçeriği Değiştir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:176
+msgid "Replace into All the Tree Nodes Contents"
+msgstr "Tüm Ağaç Notlarında İçeriği Değiştir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:177
+msgid "Replace in _Selected Node and Subnodes Contents"
+msgstr "Seçili Notta ve Alt Notlarda İçeriği Değiştir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:177
+msgid "Replace into the Selected Node and Subnodes Contents"
+msgstr "Seçili Notta ve Alt Notlarda İçeriği Değiştir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:178
+msgid "Replace in Nodes _Names"
+msgstr "Not İsimlerini Değiştir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:178
+msgid "Replace in Nodes Names"
+msgstr "Not İsimlerini Değiştir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:179
+msgid "Replace _Again"
+msgstr "Tekrar Değiştir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:179
+msgid "Iterate the Last Replace Operation"
+msgstr "Son Değiştirme İşlemini Yinele"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:180
+msgid "Show _All Matches Dialog"
+msgstr "Eşleştirilme Sonuçlarını Görüntüle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:180
+msgid "Show Search All Matches Dialog"
+msgstr "Arama İşleminde Eşleştirilme Sonuçlarını Görüntüle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:181
+msgid "View"
+msgstr "Görünüm"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:182
+msgid "Show/Hide _Tree Explorer"
+msgstr "Ağacı Göster/Gizle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:182
+msgid "Toggle Show/Hide Tree"
+msgstr "Ağaca Ait Göster/Gizle Ayarını Belirle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:183
+msgid "Show/Hide Tool_bar"
+msgstr "Araç Çubuğunu Göster/Gizle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:183
+msgid "Toggle Show/Hide Toolbar"
+msgstr "Araç Çubuğunun Göster/Gizle Ayarını Belirle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:184
+msgid "Show/Hide Node Name _Header"
+msgstr "Not Başlığını Göster/Gizle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:184
+msgid "Toggle Show/Hide Node Name Header"
+msgstr "Not Başlığının Göster/Gizle Ayarını Belirle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:185
+msgid "Toggle _Focus Tree/Text"
+msgstr "Ağaç/Yazıya İmleci Götür"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:185
+msgid "Toggle Focus Between Tree and Text"
+msgstr "Ağaç/Yazıya İmleci Götür"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:186
+msgid "_Increase Toolbar Icons Size"
+msgstr "Araç Çubuğu Simge Boyutunu Büyült"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:186
+msgid "Increase the Size of the Toolbar Icons"
+msgstr "Araç Çubuğundaki Simgelerin Boyutunu Büyült"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:187
+msgid "_Decrease Toolbar Icons Size"
+msgstr "Araç Çubuğu Simge Boyutunu Küçült"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:187
+msgid "Decrease the Size of the Toolbar Icons"
+msgstr "Araç Çubuğundaki Simgelerin Boyutunu Küçült"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:188
+msgid "_Full Screen On/Off"
+msgstr "Tam Ekran Aç/Kapat"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:188
+msgid "Toggle Full Screen On/Off"
+msgstr "Tam Ekran Yap/Tam Ekrandan Çık"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:189
+msgid "Import"
+msgstr "İçe Aktar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:190
+msgid "From _CherryTree File"
+msgstr "CherryTree Dosyasından"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:190
+msgid "Add Nodes of a CherryTree File to the Current Tree"
+msgstr "Bir CherryTree Dosyasından Aktif CherryTree Dosyasına Not Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:191
+msgid "From _Plain Text File"
+msgstr "Düz Metin Dosyasından"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:191
+msgid "Add Node from a Plain Text File to the Current Tree"
+msgstr "Bir Düz Metin Dosyasından Aktif CherryTree Dosyasına Not Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:192
+msgid "From _Folder of Plain Text Files"
+msgstr "Düz Metin Dosyalarının Klasöründen"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:192
+msgid "Add Nodes from a Folder of Plain Text Files to the Current Tree"
+msgstr "Düz Metin Dosyalarının Klasöründen Aktif Ağaca Not Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:193
+msgid "From _HTML File"
+msgstr "HTML Dosyasından"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:193
+msgid "Add Node from an HTML File to the Current Tree"
+msgstr "HTML Dosyasından Aktif Ağaca Not Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:194
+msgid "From _Folder of HTML Files"
+msgstr "HTML Dosyalarının Klasöründen"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:194
+msgid "Add Nodes from a Folder of HTML Files to the Current Tree"
+msgstr "HTML Dosyalarının Klasöründen Aktif Ağaca Not Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:195
+msgid "From _Markdown File"
+msgstr "_Markdown Dosyasından Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:195
+msgid "Add a node from a Markdown File to the Current Tree"
+msgstr "Markdown Dosyasından Aktif Ağaca Bir Not Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:196
+msgid "From _Folder of Markdown Files"
+msgstr "Markdown Dosyalarının Klasöründen"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:196
+msgid "Add Nodes from a Folder of Markdown Files to the Current Tree"
+msgstr "Markdown Dosyalarının Klasöründen Aktif Ağaca Bir Not Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:197
+msgid "From _Gnote Folder"
+msgstr "Gnote Yazılımının Klasöründen Not Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:197
+msgid "Add Nodes of a Gnote Folder to the Current Tree"
+msgstr "Gnote Yazılımının Klasöründen Aktif Ağaca Not Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:198
+msgid "From _KeepNote Folder"
+msgstr "KeepNote Yazılımının Klasöründen Not Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:198
+msgid "Add Nodes of a KeepNote Folder to the Current Tree"
+msgstr "KeepNote Yazılımının Klasöründen Aktif Ağaca Not Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:199
+msgid "From _Leo File"
+msgstr "Leo Yazılımının Dosyasından Not Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:199
+msgid "Add Nodes of a Leo File to the Current Tree"
+msgstr "Leo Yazılımının Dosyasından Aktif Ağaca Not Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:200
+msgid "From _Mempad File"
+msgstr "Mempad Dosyasından Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:200
+msgid "Add Nodes of a Mempad File to the Current Tree"
+msgstr "Mempad Dosyasından Aktif Ağaca Not Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:201
+msgid "From _NoteCase HTML File"
+msgstr "NoteCase HTML Dosyasından Not Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:201
+msgid "Add Nodes of a NoteCase HTML File to the Current Tree"
+msgstr "NoteCase HTML Dosyasından Aktif Ağaca Bir Not Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:202
+msgid "From _RedNotebook HTML"
+msgstr "RedNotebook HTML den"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:202
+msgid "Add Nodes of a RedNotebook HTML file to the Current Tree"
+msgstr "RedNotebook HTML  Dosyasından Aktif Ağaca Bir Not Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:203
+msgid "From T_omboy Folder"
+msgstr "Tomboy  Yazılımının Klasöründen Not Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:203
+msgid "Add Nodes of a Tomboy Folder to the Current Tree"
+msgstr "Tomboy  Yazılımının Klasöründen Aktif Ağaca Not Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:204
+msgid "From T_reepad Lite File"
+msgstr "Treepad Lite  Yazılımının Dosyasından Not Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:204
+msgid "Add Nodes of a Treepad Lite File to the Current Tree"
+msgstr "Treepad Lite  Yazılımının Dosyasından Aktif Ağaca Not Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:205
+msgid "From _Zim Folder"
+msgstr "Zim  Yazılımının Klasöründen Not Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:205
+msgid "Add Nodes of a Zim Folder to the Current Tree"
+msgstr "Zim   Yazılımının Klasöründen Aktif Ağaca Not Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:206
+msgid "From File using _Pandoc"
+msgstr "_Pandoc Kullanarak Dosyadan"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:206
+msgid "Add a node to the current tree using Pandoc"
+msgstr "Pandoc Kullanarak Aktif Ağaca Bir Not Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:207
+msgid "Export"
+msgstr "Dışa Aktar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:208
+msgid "Export To _PDF"
+msgstr "PDF Olarak Dışa Aktar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:208
+msgid "Export To PDF"
+msgstr "PDF Olarak Dışa Aktar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:209
+msgid "Export To _HTML"
+msgstr "HTML Olarak Dışa Aktar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:209
+msgid "Export To HTML"
+msgstr "HTML Olarak Dışa Aktar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:210
+msgid "Export to Plain _Text"
+msgstr "Düz Metin Olarak Dışa Aktar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:210
+msgid "Export to Plain Text"
+msgstr "Düz Metin Olarak Dışa Aktar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:211
+msgid "_Export To CherryTree Document"
+msgstr "CherryTree  Dosyası Olarak Dışa Aktar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:211
+msgid "Export To CherryTree Document"
+msgstr "CherryTree  Dosyası Olarak Dışa Aktar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:212
+msgid "Help"
+msgstr "Yardım"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:213
+msgid "_Check Newer Version"
+msgstr "Yeni Sürümü Kontrol Et"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:213
+msgid "Check for a Newer Version"
+msgstr "Yeni Sürümü Kontrol Et"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:214
+msgid "Online _Manual"
+msgstr "İnternet Yardım Dosyası"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:214
+msgid "Application's Online Manual"
+msgstr "Uygulamanın İnternet Yardım Dosyası"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:215
+msgid "_About"
+msgstr "Hakkında"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:216
+msgid "Open Preferences _Directory"
+msgstr "Seçenek_ler Klasörünü Aç"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:216
+msgid "Open the Directory with Preferences Files"
+msgstr "Seçenek Dosyalarının Klasörünü Aç"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:218
+msgid "C_ut Anchor"
+msgstr "Çapa Metni Kes"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:218
+msgid "Cut the Selected Anchor"
+msgstr "Seçili Çapa Metni Kes"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:219
+msgid "_Copy Anchor"
+msgstr "Çapa Metni Kopyala"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:219
+msgid "Copy the Selected Anchor"
+msgstr "Seçili Çapa Metni Kopyala"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:220
+msgid "_Delete Anchor"
+msgstr "Çapa Metni Sil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:220
+msgid "Delete the Selected Anchor"
+msgstr "Seçili Çapa Metni Sil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:221
+msgid "Edit _Anchor"
+msgstr "Çapa Metni Düzenle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:221
+msgid "Edit the Underlying Anchor"
+msgstr "Altı Çizili Çapa Metni Düzenle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:222
+msgid "Copy Anchor Link"
+msgstr "Çapa Linki Kopyala"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:222
+msgid "Copy Link to the Underlying Anchor to Clipboard"
+msgstr "Altı Çizili Çapa Linki Düzenle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:223
+msgid "C_ut Embedded File"
+msgstr "Gömülü Dosyayı Kes"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:223
+msgid "Cut the Selected Embedded File"
+msgstr "Seçili Gömülü Dosyayı Kes"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:224
+msgid "_Copy Embedded File"
+msgstr "Gömülü Dosyayı Kopyala"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:224
+msgid "Copy the Selected Embedded File"
+msgstr "Seçili Gömülü Dosyayı Kopyala"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:225
+msgid "_Delete Embedded File"
+msgstr "Gömülü Dosyayı Sil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:225
+msgid "Delete the Selected Embedded File"
+msgstr "Seçili Gömülü Dosyayı Sil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:227
+msgid "Open Embedded File"
+msgstr "Gömülü Dosya Aç"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:228
+msgid "_Rename"
+msgstr "Yeniden Adlandır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:228
+msgid "Rename Embedded File"
+msgstr "Gömülü Dosyayı Yeniden Adlandır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:229
+msgid "_Save Image as PNG"
+msgstr "PNG Olarak Farklı Kaydet"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:229
+msgid "Save the Selected Image as a PNG file"
+msgstr "Seçili Resmi PNG Olarak Kaydet"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:230
+msgid "_Edit Image"
+msgstr "Resmi Düzenle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:230
+msgid "Edit the Selected Image"
+msgstr "Seçili Resmi Düzenle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:231
+msgid "C_ut Image"
+msgstr "Resmi Kes"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:231
+msgid "Cut the Selected Image"
+msgstr "Seçili Resmi Kes"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:232
+msgid "_Copy Image"
+msgstr "Resmi Kopyala"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:232
+msgid "Copy the Selected Image"
+msgstr "Seçili Resmi Kopyala"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:233
+msgid "_Delete Image"
+msgstr "Resmi Sil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:233
+msgid "Delete the Selected Image"
+msgstr "Seçili Resmi Sil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:234
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:247
+msgid "Edit _Link"
+msgstr "Link Düzenle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:234
+msgid "Edit the Link Associated to the Image"
+msgstr "Resimle Bağlantılı Linki Düzenle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:235
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:250
+msgid "D_ismiss Link"
+msgstr "Linki Çıkar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:235
+msgid "Dismiss the Link Associated to the Image"
+msgstr "Resimle Bağlantılı Linki Çıkar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:247
+msgid "Edit the Underlying Link"
+msgstr "Altı Çizili Linki Düzenle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:248
+msgid "C_ut Link"
+msgstr "Linki Kes"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:248
+msgid "Cut the Selected Link"
+msgstr "Seçili Linki Kes"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:249
+msgid "_Copy Link"
+msgstr "Linki Kopyala"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:249
+msgid "Copy the Selected Link"
+msgstr "Seçili Linki Kopyala"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:250
+msgid "Dismiss the Selected Link"
+msgstr "Seçili Linki Çıkar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:251
+msgid "_Delete Link"
+msgstr "Linki Sil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:251
+msgid "Delete the Selected Link"
+msgstr "Seçili Linki Sil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:253
+msgid "C_ut Table"
+msgstr "Tabloyu Kes"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:253
+msgid "Cut the Selected Table"
+msgstr "Seçili Tabloyu Kes"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:254
+msgid "_Copy Table"
+msgstr "Tabloyu Kopyala"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:254
+msgid "Copy the Selected Table"
+msgstr "Seçili Tabloyu Kopyala"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:255
+msgid "_Delete Table"
+msgstr "Tabloyu Sil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:255
+msgid "Delete the Selected Table"
+msgstr "Seçili Tabloyu Sil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:256
+msgid "_Add Column"
+msgstr "_Sütun Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:256
+msgid "Add a Table Column"
+msgstr "Tabloya Bir Sütun Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:257
+msgid "De_lete Column"
+msgstr "Sütunu Sil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:257
+msgid "Delete the Selected Table Column"
+msgstr "Seçili Tablo Sütununu Sil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:258
+msgid "Move Column _Left"
+msgstr "Sütunu Sola Taşı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:258
+msgid "Move the Selected Column Left"
+msgstr "Seçili Sütunu Sola Taşı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:259
+msgid "Move Column _Right"
+msgstr "Sütunu Sağa Taşı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:259
+msgid "Move the Selected Column Right"
+msgstr "Seçili Sütunu Sağa Taşı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:260
+msgid "Increase Column Width"
+msgstr "Sütun Genişliğini Arttır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:260
+msgid "Increase the Width of the Column"
+msgstr "Sütunun Genişliğini Arttır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:261
+msgid "Decrease Column Width"
+msgstr "Sütunun Genişliğini Azalt"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:261
+msgid "Decrease the Width of the Column"
+msgstr "Sütunun Genişliğini Azalt"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:262
+msgid "_Add Row"
+msgstr "Satır Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:262
+msgid "Add a Table Row"
+msgstr "Tabloya Satır Ekle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:263
+msgid "Cut a Table Row"
+msgstr "Tablo Satırını Kes"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:264
+msgid "Copy a Table Row"
+msgstr "Tablo Satırını Kopyala"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:265
+msgid "_Paste Row"
+msgstr "Satır Yapıştır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:265
+msgid "Paste a Table Row"
+msgstr "Tablo Satırını Yapıştır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:266
+msgid "Delete the Selected Table Row"
+msgstr "Seçili Tablo Satırını Sil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:267
+msgid "Move Row _Up"
+msgstr "Satırı Üste Taşı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:267
+msgid "Move the Selected Row Up"
+msgstr "Seçili Satırı Üste Taşı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:268
+msgid "Move Row _Down"
+msgstr "Satırı Alta Taşı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:268
+msgid "Move the Selected Row Down"
+msgstr "Seçili Satırı Alta Taşı"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:269
+msgid "Sort Rows De_scending"
+msgstr "Satırları Sırala (A-Z)"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:269
+msgid "Sort all the Rows Descending"
+msgstr "Tüm Satırları Sırala (A-Z)"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:270
+msgid "Sort Rows As_cending"
+msgstr "Satırları Sırala (Z-A)"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:270
+msgid "Sort all the Rows Ascending"
+msgstr "Tüm Satırları Sırala (Z-A)"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:271
+msgid "_Edit Table Properties"
+msgstr "Tablo Özelliklerini Düzenle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:271
+msgid "Edit the Table Properties"
+msgstr "Tablo Özelliklerini Düzenle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:272
+msgid "_Table Export"
+msgstr "Tabloyu Dışa Aktar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:272
+msgid "Export Table as CSV File"
+msgstr "Tabloyu CSV Dosyası Olarak Dışa Aktar"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:274
+msgid "Change CodeBox _Properties"
+msgstr "Kod Kutusu Özelliklerini Değiştir"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:274
+msgid "Edit the Properties of the CodeBox"
+msgstr "Kod Kutusunun Özelliklerini Düzenle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:275
+msgid "_Execute CodeBox Code"
+msgstr "Kod Kutusunu Çalıştır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:275
+msgid "Execute CodeBox Code"
+msgstr "Kod Kutusunu Çalıştır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:276
+msgid "CodeBox _Load From Text File"
+msgstr "Metin Dosyasından Kod Kutusuna Yükle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:276
+msgid "Load the CodeBox Content From a Text File"
+msgstr "Bir Metin Dosyasından Kod Kutusuna İçerik Yükle"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:277
+msgid "CodeBox _Save To Text File"
+msgstr "Kod Kutusunu Metin Dosyası Olarak Kaydet"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:277
+msgid "Save the CodeBox Content To a Text File"
+msgstr "Kod Kutusunun İçeriğini Bir Metin Dosyası Olarak Kaydet"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:278
+msgid "C_ut CodeBox"
+msgstr "Kod Kutusunu Kes"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:278
+msgid "Cut the Selected CodeBox"
+msgstr "Seçili Kod Kutusunu Kes"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:279
+msgid "_Copy CodeBox"
+msgstr "Kod Kutusunu Kopyala"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:279
+msgid "Copy the Selected CodeBox"
+msgstr "Seçili Kod Kutusunu Kopyala"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:280
+msgid "_Delete CodeBox"
+msgstr "Kod Kutusunu Sil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:280
+msgid "Delete the Selected CodeBox"
+msgstr "Seçili Kod Kutusunu Sil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:281
+msgid "Delete CodeBox _Keep Content"
+msgstr "Kod Kutusunun İçeriğini Sil"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:281
+msgid "Delete the Selected CodeBox But Keep Its Content"
+msgstr "Seçili Kod Kutusunu Sil Fakat İçeriğini Sakla"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:282
+msgid "Increase CodeBox Width"
+msgstr "Kod Kutusunun Genişliğini Arttır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:282
+msgid "Increase the Width of the CodeBox"
+msgstr "Kod Kutusunun Genişliğini Arttır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:283
+msgid "Decrease CodeBox Width"
+msgstr "Kod Kutusunun Genişliğini Azalt"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:283
+msgid "Decrease the Width of the CodeBox"
+msgstr "Kod Kutusunun Genişliğini Azalt"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:284
+msgid "Increase CodeBox Height"
+msgstr "Kod Kutusunun Enini Arttır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:284
+msgid "Increase the Height of the CodeBox"
+msgstr "Kod Kutusunun Enini Arttır"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:285
+msgid "Decrease CodeBox Height"
+msgstr "Kod Kutusunun Enini Azalt"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_menu_actions.cc:285
+msgid "Decrease the Height of the CodeBox"
+msgstr "Kod Kutusunun Enini Azalt"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_imports.h:182
+msgid "Markdown Document"
+msgstr "Markdown Belgesi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_imports.h:216
+msgid "Mempad Document"
+msgstr "Mempad Belgesi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_imports.h:225
+msgid "Treepad Document"
+msgstr "Treepad Belgesi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_imports.h:235
+msgid "Leo Document"
+msgstr "Leo Belgesi"
+
+#: /home/giuseppe/git/cherrytree/src/ct/ct_pref_dlg.h:63
+msgid "Are you sure to Reset to Default?"
+msgstr "Varsayılana sıfırlamak istediğinizden emin misiniz?"
+
+#~ msgid "For_matting"
+#~ msgstr "_Biçimlendirme"
+
+#~ msgid "Nodes _Import"
+#~ msgstr "Notları İç_e Aktar"
+
+#~ msgid "Nodes E_xport"
+#~ msgstr "Notları _Dışa Aktar"
+
+#~ msgid "E_xport"
+#~ msgstr "Dışa A_ktar"
+
+#~ msgid "Editor"
+#~ msgstr "Düzenleyici"
+
+#~ msgid "Monospace Background"
+#~ msgstr "Tek Aralıklı Arkaplan"
+
+#~ msgid "Export to PDF at specified file path"
+#~ msgstr "Belirtilen Dizin Yolunda PDF ye Aktar"
+
+#~ msgid "Export to Multiple Plain _Text Files"
+#~ msgstr "Çoklu Düz Metin Dosyaları Olarak Dışa Aktar"
+
+#~ msgid "Export to Multiple Plain Text Files"
+#~ msgstr "Çoklu Düz Metin Dosyaları Olarak Dışa Aktar"
+
+#~ msgid "Export to _Single Plain Text File"
+#~ msgstr "Tek Düz Metin Dosyası Olarak Dışa Aktar"
+
+#~ msgid "Unknown"
+#~ msgstr "Bilinmeyen"
+
+#~ msgid "(no suggestions)"
+#~ msgstr "(öneri yok)"
+
+#~ msgid "Add \"{}\" to Dictionary"
+#~ msgstr "Sözlükten\"{}\" Ekle"
+
+#~ msgid "Ignore All"
+#~ msgstr "Tümünü Yoksay"
+
+#~ msgid "Languages"
+#~ msgstr "Diller"
+
+#~ msgid "Suggestions"
+#~ msgstr "Öneriler"
+
+#~ msgid "NoteCase Document"
+#~ msgstr "NoteCase Belgesi"
+
+#~ msgid "EPIM HTML Document"
+#~ msgstr "EPIM HTML Belgesi"
+
+#~ msgid "HTML Document"
+#~ msgstr "HTML Belgesi"
+
+#~ msgid "KeyNote Document"
+#~ msgstr "KeyNote Belgesi"
+
+#~ msgid "Knowit Document"
+#~ msgstr "Knowit Belgesi"
+
+#~ msgid ""
+#~ "Binary Executable '7za' Not Found, Check The Package 'p7zip-full' to be "
+#~ "Installed Properly"
+#~ msgstr ""
+#~ "'7za' Çalıştırılabilir Dosyası Bulunamadı, 'p7zip-full' Paketinin Kurulu "
+#~ "Olduğundan Emin Olun"
+
+#~ msgid "Wrong Password"
+#~ msgstr "Hatalı Parola"
+
+#~ msgid "Type To Search..."
+#~ msgstr "Aramak İçin Yazın..."
+
+#~ msgid "Command Name"
+#~ msgstr "Komut İsmi"
+
+#~ msgid "Not Any H1, H2 or H3 Formatting Found"
+#~ msgstr "H1, H2 ya da H3 Biçimlendirmesi Bulunamadı"
+
+#~ msgid "Min Width"
+#~ msgstr "En Küçük Genişlik"
+
+#~ msgid "Max Width"
+#~ msgstr "En Büyük Genişlik"
+
+#~ msgid "Click to Edit the Column Settings"
+#~ msgstr "Kolon Ayarlarını Düzenlemek İçin Tıklayın"
+
+#~ msgid "Table Column Action"
+#~ msgstr "Tablo Kolon İşlemi"
+
+#~ msgid "From _Basket Folder"
+#~ msgstr "Basket Yazılımının Klasöründen Not Ekle"
+
+#~ msgid "Add Nodes of a Basket Folder to the Current Tree"
+#~ msgstr "Basket Yazılımının Klasöründen Aktif Ağaca Not Ekle"
+
+#~ msgid "From _EssentialPIM HTML File"
+#~ msgstr "EssentialPIM Yazılımının Klasöründen Not Ekle"
+
+#~ msgid "Add Node from an EssentialPIM HTML File to the Current Tree"
+#~ msgstr "EssentialPIM Yazılımının Klasöründen Aktif Ağaca Not Ekle"
+
+#~ msgid "From K_eyNote File"
+#~ msgstr "KeyNote Yazılımının Klasöründen Not Ekle"
+
+#~ msgid "Add Nodes of a KeyNote File to the Current Tree"
+#~ msgstr "KeyNote Yazılımının Klasöründen Aktif Ağaca Not Ekle"
+
+#~ msgid "From K_nowit File"
+#~ msgstr "Knowit Yazılımının Klasöründen Not Ekle"
+
+#~ msgid "Add Nodes of a Knowit File to the Current Tree"
+#~ msgstr "Knowit Yazılımının Klasöründen Aktif Ağaca Not Ekle"
+
+#~ msgid "From _TuxCards File"
+#~ msgstr "TuxCards  Yazılımının Dosyasından Not Ekle"
+
+#~ msgid "Add Nodes of a TuxCards File to the Current Tree"
+#~ msgstr "TuxCards  Yazılımının Dosyasından Aktif Ağaca Not Ekle"
+
+#~ msgid "Insert _NewLine"
+#~ msgstr "Yeni Satır Ekle"
+
+#~ msgid "Insert NewLine Char"
+#~ msgstr "Yeni Satır Karakteri Ekle"
+
+#~ msgid "Use AppIndicator for Docking"
+#~ msgstr "Uygulama Göstericiyi Kullan"
+
+#~ msgid "Text"
+#~ msgstr "Metin"
+
+#~ msgid "Cancel"
+#~ msgstr "Vazgeç"
+
+#~ msgid "Yes"
+#~ msgstr "Evet"
+
+#~ msgid "No"
+#~ msgstr "Hayır"
+
+#~ msgid "The Characters  %s  are Not Allowed"
+#~ msgstr "%s Karakterine İzin Verilmiyor"
+
+#~ msgid "Text Font"
+#~ msgstr "Metin Yazı Tipi"
+
+#~ msgid "Toggle Node _Expanded/Collapsed"
+#~ msgstr "Nota Ait Ağacı Genişlet/Daralt"
+
+#~ msgid "Toggle Expanded/Collapsed Status of the Selected Node"
+#~ msgstr "Seçili Nota Ait Ağacı Genişlet/Daralt"
+
+#~ msgid "C_opy Row"
+#~ msgstr "Satır Kopyala"
+
+#~ msgid "Find into the Selected Node"
+#~ msgstr "Seçili Not İçinde Bul"
+
+#~ msgid "Find in Node_s"
+#~ msgstr "Notlarda Bul"
+
+#~ msgid "Find into all the Tree Nodes"
+#~ msgstr "Tüm Notlarda Bul"
+
+#~ msgid "_Replace in Node"
+#~ msgstr "Not İçinde Değiştir"
+
+#~ msgid "Replace into the Selected Node"
+#~ msgstr "Seçili Not İçinde Değiştir"
+
+#~ msgid "Replace in Node_s"
+#~ msgstr "Notlarda Değiştir"
+
+#~ msgid "Replace into all the Tree Nodes"
+#~ msgstr "Tüm Notlarda Değiştir"
+
+#~ msgid "Code Nodes"
+#~ msgstr "Kod Notları"
+
+#~ msgid "Use Cherries as Nodes Icons"
+#~ msgstr "Not Simgelerinde Kiraz Resmi Kullan"
+
+#~ msgid "Do Not Display Nodes Icons"
+#~ msgstr "Notlarda Simge Gösterme"
+
+#~ msgid "All Nodes"
+#~ msgstr "Tüm Notlar"
+
+#~ msgid "_Bookmark This Node"
+#~ msgstr "Bu Notu Yer İmlerine Ekle"
+
+#~ msgid ""
+#~ "Copyright © 2009-2014\n"
+#~ "Giuseppe Penone <giuspen@gmail.com>"
+#~ msgstr ""
+#~ "Copyright © 2009-2014\n"
+#~ "Giuseppe Penone <giuspen@gmail.com>"
+
+#~ msgid "Sort with Drag and Drop, Delete with the Delete Key"
+#~ msgstr "Sürükleyerek Sıralayın, Del Tuşu İle Silin"

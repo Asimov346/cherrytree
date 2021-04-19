@@ -1,10 +1,7 @@
-cherrytree (0.38.9-0) bionic; urgency=low
+cherrytree (0.99.36-1) focal; urgency=low
 
-  * Auto replacement of symbols as you type is now configurable in preferences dialog, tab Text (work of trololo88)
-  * Ctrl+Space to toggle To-Do List Item State; fixed multilevel bug
-  * Paste/import from html - added basic support for <dt><dd>
-  * In codeboxes use code font for both plain text and syntax hilighting (work of akwala)
-  * Fix paste as plain text into CodeBox cause losing CodeBox content (#538)
-  * Export to html, stylesheet revamp (work of gonzalezjo)
+  * fix segfault on startup when configured to start on systray (in 0.99.34,0.99.35 - #1610, #1619)
+  * updated Japanese language (Piyo)
 
- -- Giuseppe Penone <giuspen@gmail.com>  Sat, 17 Aug 2019 12:04:52 +0100
+
+ -- Giuseppe Penone <giuspen@gmail.com>  Sat, 17 Apr 2021 22:27:52 +0100
